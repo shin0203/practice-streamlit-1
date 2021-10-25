@@ -1,6 +1,0 @@
-streamlit==1.0.0
-altair==4.1.0
-yfinance==0.1.64
-pandas
-azure-cognitiveservices-vision-computervision==0.9.0
-azure-common==1.1.27
